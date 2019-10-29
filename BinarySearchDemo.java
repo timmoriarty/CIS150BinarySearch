@@ -18,7 +18,7 @@ public class BinarySearchDemo
       
       // The values in the following array are sorted
       // in ascending order.
-      int numbers[] = {101, 142, 147, 189, 199, 207, 222,
+      int numbers[] = {102, 142, 147, 189, 199, 207, 222,
                        234, 289, 296, 310, 319, 388, 394,
                        417, 429, 447, 521, 536, 600};
 
